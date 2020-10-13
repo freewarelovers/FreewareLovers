@@ -1,0 +1,133 @@
+body {
+    font-family: "Century Gothic", 'Lato', sans-serif !important;
+}
+
+a {
+    text-decoration: none;
+}
+
+.title,
+.slide,
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 35vh;
+    position: relative;
+    background: #eee;
+    text-align: center;
+    padding: 0 2em;
+
+}
+
+.headerform {
+    background-color: #EEEEEE;
+    text-align: end;
+    padding: .5rem;
+
+}
+
+.headerform input {
+    border-radius: 20px;
+    border: none;
+
+}
+
+.headerform .btnSearch {
+    margin-right: 0.5rem;
+}
+
+sup {
+    background: -webkit-linear-gradient(319deg, #d3212d 0%, #009245 37%, #ffbf00 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#contactForm {
+    z-index: 1000;
+}
+
+.title h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+    margin-top: 1rem;
+}
+
+
+h3 {
+    font-size: 1rem;
+    letter-spacing: 0.3rem;
+    opacity: 0.6;
+}
+
+
+
+
+
+
+.header {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 70px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    background: #fff;
+    z-index: 10;
+
+
+}
+
+.fixedHeader {
+    position: sticky;
+    top: 0;
+}
+
+.headerTab {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    color: #000;
+    letter-spacing: 0.1rem;
+    transition: all 0.5s ease;
+    font-size: 0.8rem;
+
+
+}
+
+.headerTab:hover {
+    /* color: white; */
+    background-color: #cdedfd;
+    background-image: linear-gradient(319deg, #cdedfd 0%, #ffec82 37%, #ffcfd2 100%);
+    transition: all 0.5s ease;
+
+
+}
+
+main img {
+    width: 100%;
+    margin-top: 1.5rem;
+}
+
+
+.footer {
+    background: #fff;
+    height: 18vh;
+}
+
+.footer a:hover {
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+}
+
+.fab2 {
+    color: black;
+    font-size: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    z-index: 1;
+}
