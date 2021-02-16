@@ -31,7 +31,7 @@ Wikipedia for free & open source software.
 [issues-url]: https://github.com/freewarelovers/FreewareLovers/issues
 [license-shield]: https://img.shields.io/github/license/freewarelovers/FreewareLovers
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/freeware-lovers-gmbh/
 [twitter-shield]: https://img.shields.io/twitter/follow/FreewareLovers?label=Follow&style=social
 [twitter-url]: https://twitter.com/intent/follow?screen_name=FreewareLovers
