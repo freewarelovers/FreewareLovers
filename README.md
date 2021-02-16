@@ -13,6 +13,8 @@ Wikipedia for free & open source software.
 
 <!-- [![Build Status][build-shield]][build-url]-->
 [![Contributors][contributors-shield]][contributors-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
@@ -23,9 +25,13 @@ Wikipedia for free & open source software.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/freewarelovers/FreewareLovers
 [contributors-url]: https://github.com/freewarelovers/FreewareLovers/graphs/contributors
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/freewarelovers/FreewareLovers
+[stars-url]: https://github.com/freewarelovers/FreewareLovers/stargazers
+[issues-shield]: https://img.shields.io/github/issues/freewarelovers/FreewareLovers
+[issues-url]: https://github.com/freewarelovers/FreewareLovers/issues
+[license-shield]: https://img.shields.io/github/license/freewarelovers/FreewareLovers
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg
 [linkedin-url]: https://www.linkedin.com/company/freeware-lovers-gmbh/
 [twitter-shield]: https://img.shields.io/twitter/follow/FreewareLovers?label=Follow&style=social
 [twitter-url]: https://twitter.com/intent/follow?screen_name=FreewareLovers
